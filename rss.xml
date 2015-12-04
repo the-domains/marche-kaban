@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marche Kaban]]></title>
+        <description><![CDATA[Marche Kaban]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Dec 2015 18:36:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Marche Kaban]]></title>
+            <description><![CDATA[<article><h1>Marche Kaban</h1><p>Où iriez vous si vous étiez... en déplacement? Dans quelle direction, avec quelle destination en tête. Qu'emporteriez vous? Ce site ne s'attarde pas tout à fait à ces questions.</p></article>]]></description>
+            <link>undefinedmarche-kaban/index.html</link>
+            <guid isPermaLink="false">6255aafc-1ec0-4400-9c06-8b45dc899be8</guid>
+            <pubDate>Fri, 04 Dec 2015 18:36:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
