@@ -1,6 +1,6 @@
 name: Marche Kaban
 favicon: null
-layout_spectrum: 0.30295590520836413
+layout_spectrum: 0.95527
 typography_spectrum: 0.025710929417982697
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6238549682311714
+    - '#b8b8b8'
+    - '#010101'
+    - '#3c363a'
+    - '#807a7a'
+    - '#7f1720'
+  brandStrength: 0.125
   lightness: 0.44154586899094284
-  saturation: 0.4997632745653391
-  rhythmicContrast: 0.16193558741360903
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
